@@ -1,4 +1,4 @@
-<h1>Projeto Biblioteca em Java </h1>
+<h1>Projeto Site de trocas em PHP </h1>
 
 - Esse repositório será sobre o desenvolvimento de uma aplicação PHP solicitado como trabalho de conclusão de curso segue mais detalhes abaixo:
 
