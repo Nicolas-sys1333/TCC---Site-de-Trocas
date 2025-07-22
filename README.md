@@ -2,7 +2,7 @@
 
 - Esse repositório será sobre o desenvolvimento de uma aplicação PHP solicitado como trabalho de conclusão de curso segue mais detalhes abaixo:
 
-<h1>✏️ Biblioteca</h1>
+<h1>✏️ Site de trocas</h1>
 Criação de uma aplicação para cadastro de produtos em para ser realizada trocas: Criar usúarios e produtos, Ler, Atualizar, Excluir, Chat de mensagens
 
 - Nome do produto
